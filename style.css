@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: Simplifica;
+    src: url("SIMPLIFICA Typeface.ttf")
+}
+h1{
+  font-family: "Raleway", sans-serif;
+  size: 50px;
+  margin: 0 auto;
+  width: 70%
+  padding: 0 10px;
+  float: left;
+  font-size: 50px;
+  color: #20B2AA;
+}
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+  padding: 0 10px;
+  float: right;
+}
+.nav {
+  font-family: "Simplifica", sans-serif;
+  height: 50px;
+  width: 50%;
+  float: right;
+}
+
+.nav ul {
+  height: 50px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav ul li {
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+  font-size: 20px;
+  color: #20B2AA;
+}
+
+a{
+  text-decoration: none; 
+  color: #20B2AA;
+  font-family: "Simplifica", sans-serif;
+}
+
+.social{
+width: 50px;
+height: 50px;
+}
+.logos{
+  width: 50px;
+  float: left;
+  margin-top: 70px;
+}
+#headshot{
+  float: left;
+  width:450px;
+}
+div.bodyText{
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+#rightSide{
+  float: right;
+  width: 50%;
+  padding: 20px;
+  margin-top: 60px;
+  margin-right: 90px;
+}
+#fullpage{
+  width: 50%;
+  padding: 20px;
+  margin-left: 90px;
+  margin-top: 20px;
+}
