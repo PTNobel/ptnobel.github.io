@@ -1,0 +1,104 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: url('golden_gate.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.header-font {
+  font-family: 'Markazi Text', serif;
+  font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Markazi Text', serif;
+}
+
+.footer {
+  position: absolute;
+  bottom: -10;
+  width: 100%;
+}
+
+.filler-space {
+  height: 20vh;
+}
+
+
+#content {
+  padding-top: 0.5rem;
+  min-height: 100vh;
+  background: rgb(25, 25, 25); /* Fallback */
+  /* background: rgba(25, 25, 25, .65); */
+  background: rgba(50, 50, 50, .65);
+}
+
+.low-width-text {
+  max-width: 75vw;
+}
+
+img.bronze-sponsor {
+  max-width: 200px;
+  max-height: 20;
+  display: block;
+  margin: 0 auto 0px;
+}
+
+img.silver-sponsor {
+  max-width: 85vw;
+  width: 445px;
+  max-height: 40;
+  display: block;
+  margin: 0 auto 0px;
+}
+
+figure {
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.bg-darkish {
+  background-color: #454d54 !important;
+}
+
+.bg-transperant {
+  background-color: rgba(50, 50, 50, .65) !important;
+}
+
+.alert-auto {
+  display:inline-block;
+}
+
+.bg-link {
+    color: inherit;
+    font-size: 20pt;
+}
+
+#content a {
+ color: inherit;
+ text-decoration: underline;
+}
+
+@media all and (max-width: 450px) {
+  .bg-transperant {
+    background-color: #454d54 !important;
+  }
+}
+@media all and (max-width: 391px) {
+  .filler-space {
+    height: 15vh;
+  }
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
