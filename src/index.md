@@ -2,7 +2,7 @@
     title: Parth Nobel
 ...
 
-![](/public/img/headshot.jpg "Parth Nobel's Headshot")
+![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
 PhD Student in Electrical Engineering, Stanford University  
 B.S. in Electrical Engineering and Computer Science, UC Berkeley  
