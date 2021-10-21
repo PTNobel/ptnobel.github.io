@@ -27,7 +27,7 @@ I was also the team Secretary and a Speech Coach for the UC Berkeley Model Unite
 I occasionally did significant writing for the UC Berkeley Model UN. That work is provided below:
 
 * [Conference on the Laws of War for the Cyber Era Background Guide](/pdfs/war.pdf) 
-* [Excerpts addressing power grid infrastructure from Group of Latin American and Carribean Countries: 2020 Background Guide](/pdfs/war.pdf)
+* [Excerpts addressing power grid infrastructure from Group of Latin American and Carribean Countries: 2020 Background Guide](/pdfs/grulac.pdf)
 * [US Senate: Data Privacy Background Guide](/pdfs/data-privacy.pdf)
 
 I also have written quick-reference theorem lists for a couple classes at Berkeley. Other people have told me they're useful. I make no guarantees about the absence or presence of typos. 
