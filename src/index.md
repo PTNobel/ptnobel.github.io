@@ -14,11 +14,10 @@ I'm currently a PhD Student at Stanford University working with Professors Steph
 
 Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a B.S. in Electrical Engineering and Computer Science (EECS). I did research in Professor Jaijeet Roychowdhury's Research Group, primarily on system theory, numerical methods, and Ising Machine scaling.
 
-I was also the team Secretary and a Speech Coach for the UC Berkeley Model United Nations.
-
 # Papers
 
-* T. Wang, L. Wu, **P. Nobel,** and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Nat Comput* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
+* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. [arXiv:2112.03336 [math.OC]](https://arxiv.org/abs/2112.03336).
+* T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Nat Comput* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
 * **[Invited Paper]** T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. Unconventional Computation and Natural Computation (UCNC), August 2020.
 * **P. Nobel**, `auto_diff`: An Automatic Differentiation Package for Python, SpringSim'20, May 2020. <https://dl.acm.org/doi/10.5555/3408207.3408219>
 
