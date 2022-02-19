@@ -10,7 +10,7 @@ B.S. in Electrical Engineering and Computer Science, UC Berkeley
 
 # Bio
 
-I'm currently a PhD Student at Stanford University working with Professors Stephen Boyd and Emanuel Candès on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+I'm currently a PhD Student at Stanford University working with Professors Stephen Boyd and Emmanuel Candès on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
 Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a B.S. in Electrical Engineering and Computer Science (EECS). I did research in Professor Jaijeet Roychowdhury's Research Group, primarily on system theory, numerical methods, and Ising Machine scaling.
 
