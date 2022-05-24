@@ -4,15 +4,17 @@
 
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
+Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley  
 PhD Candidate in Electrical Engineering, Stanford University  
-B.S. in Electrical Engineering and Computer Science, UC Berkeley  
 <ptnobel@stanford.edu>
 
 # Bio
 
-I am currently a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
-Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a B.S. in Electrical Engineering and Computer Science (EECS). I did research in Professor Jaijeet Roychowdhury's Research Group on system theory, numerical methods, and Ising Machine scaling.
+During the summer of 2022, I will be working at UC Berkeley with [Riley Murray](https://rileyjmurray.wordpress.com/) and [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
+
+Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
 
 # Papers
 
