@@ -12,7 +12,7 @@ I will be at ICCOPT 2022!
 
 # Bio
 
-I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
 During the summer of 2022, I will be a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/) and Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
