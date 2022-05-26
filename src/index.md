@@ -14,9 +14,9 @@ I will be at ICCOPT 2022!
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
-During the summer of 2022, I will be a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/) and [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
+During the summer of 2022, I will be a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/) and Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
-Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
+Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
 
 # Papers
 
