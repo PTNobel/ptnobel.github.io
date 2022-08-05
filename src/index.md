@@ -8,8 +8,6 @@ Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley
 PhD Candidate, Electrical Engineering, Stanford University  
 <ptnobel@stanford.edu>
 
-I will be at ICCOPT 2022!
-
 # Bio
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
