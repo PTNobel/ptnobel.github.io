@@ -12,14 +12,14 @@ PhD Candidate, Electrical Engineering, Stanford University
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
-During the summer of 2022, I will be a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/) and Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
+During the summer of 2022 and part-time during the autumn of 2022, I am a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
 Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
 
 # Papers
 
-* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. [arXiv:2112.03336 [math.OC]](https://arxiv.org/abs/2112.03336).
-* T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Nat Comput* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
+* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. *Optimization Letters* (2022). <https://doi.org/10.1007/s11590-022-01933-2>
+* T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Natural Computing* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
 * **[Invited Paper]** T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. Unconventional Computation and Natural Computation (UCNC), August 2020.
 * **P. Nobel**, `auto_diff`: An Automatic Differentiation Package for Python, SpringSim'20, May 2020. <https://dl.acm.org/doi/10.5555/3408207.3408219>
 
