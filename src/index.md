@@ -4,8 +4,8 @@
 
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
-Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley  
 PhD Candidate, Electrical Engineering, Stanford University  
+Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley  
 <ptnobel@stanford.edu>
 
 # Bio
