@@ -11,7 +11,7 @@ Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley
 # Bio
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
-In Winter 2023, I will be the Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/).
+In Winter 2023, I am the Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/).
 
 During the summer of 2022 and part-time since, I am a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
