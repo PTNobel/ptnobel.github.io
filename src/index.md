@@ -15,7 +15,7 @@ In Winter 2023, I was the Head TA for [EE364a/CME364a](https://web.stanford.edu/
 
 During the summer of 2022 and part-time since, I am a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
-Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
+Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods. In Spring 2021, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
 
 # Papers
 
