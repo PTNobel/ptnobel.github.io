@@ -19,7 +19,7 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Papers
 
-* T. Marcucci, *P. Nobel*, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
+* T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 [arXiv:2305.01072 [cs.RO]](https://arxiv.org/abs/2305.01072).
 * **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. [arXiv:2211.05947 [math.ST]](https://arxiv.org/abs/2211.05947)
 * **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. *Optimization Letters* (2022). <https://doi.org/10.1007/s11590-022-01933-2>
