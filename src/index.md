@@ -22,7 +22,7 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 [arXiv:2305.01072 [cs.RO]](https://arxiv.org/abs/2305.01072).
 * **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. [arXiv:2211.05947 [math.ST]](https://arxiv.org/abs/2211.05947)
-* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. *Optimization Letters* (2022). <https://doi.org/10.1007/s11590-022-01933-2>
+* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. *Optimization Letters* **17**, 1229-1240 (2023). <https://doi.org/10.1007/s11590-022-01933-2>
 * T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Natural Computing* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
 * **[Invited Paper]** T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. Unconventional Computation and Natural Computation (UCNC), August 2020.
 * **P. Nobel**, `auto_diff`: An Automatic Differentiation Package for Python, SpringSim'20, May 2020. <https://dl.acm.org/doi/10.5555/3408207.3408219>
