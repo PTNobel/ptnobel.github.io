@@ -11,7 +11,7 @@ PhD Student, Mathematics, University of Utah
 
 I am a PhD student at the University of Utah working with Professor [Srikanth Iyengar](http://www.math.utah.edu/~iyengar/).
 I graduated from the University of Washington in Spring 2022 with a BS in Computer Science & Mathematics.
-I'm broadly interested in commutative algebra, homotopy theory, and formalization/verification. 
+I'm broadly interested in commutative algebra, homotopy theory, logic, and formal verification. 
 
 # Papers
 
