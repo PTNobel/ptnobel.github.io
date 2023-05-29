@@ -20,7 +20,7 @@ I'm broadly interested in commutative algebra, homotopy theory, logic, and forma
 # Talks
 * A talk on my work formalizing the Brouwer Fixed Point theorem at BIRS 23w5124
 ![](/videos/BFT_talk.mp4)
-[Slides](/pdf/BFT_talk.pdf)
+[Slides](/pdfs/BFT_Talk.pdf)
 
 * A talk on what formal verification is written for a student seminar 
-[Slides](/pdf/Lean_talk.pdf)
+[Slides](/pdfs/Lean_Talk.pdf)
