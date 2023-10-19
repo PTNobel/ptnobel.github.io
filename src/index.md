@@ -24,6 +24,9 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Papers
 
+* J. Sun, Y Jiang, J Qiu, **P. Nobel**, M. Kochenderfer, M. Schwager,
+ Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model.
+              *NeurIPS 2023*. <https://neurips.cc/virtual/2023/poster/71449>
 * **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. *IEEE Transactions on Signal Processing*. <https://doi.org/10.1109/TSP.2023.3323046>
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 [arXiv:2305.01072 [cs.RO]](https://arxiv.org/abs/2305.01072)
