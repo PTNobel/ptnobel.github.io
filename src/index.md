@@ -24,12 +24,12 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Papers
 
+* T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
+*IEEE Transactions on Robotics*. 2024. <https://ieeexplore.ieee.org/document/10612232>
 * J. Sun, Y Jiang, J Qiu, **P. Nobel**, M. Kochenderfer, M. Schwager,
  Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model.
               *NeurIPS 2023*. <https://neurips.cc/virtual/2023/poster/71449>
-* **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. *IEEE Transactions on Signal Processing*. <https://doi.org/10.1109/TSP.2023.3323046>
-* T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
-[arXiv:2305.01072 [cs.RO]](https://arxiv.org/abs/2305.01072)
+* **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. *IEEE Transactions on Signal Processing*. 2023. <https://doi.org/10.1109/TSP.2023.3323046>
 * **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. *Optimization Letters* **17**, 1229–1240 (2023). <https://doi.org/10.1007/s11590-022-01933-2>
 * T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Natural Computing* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
 * **[Invited Paper]** T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. Unconventional Computation and Natural Computation (UCNC), August 2020.
