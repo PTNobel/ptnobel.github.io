@@ -24,6 +24,7 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Papers
 
+* **P. Nobel**, D. LeJeune, E. Candès. RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 *IEEE Transactions on Robotics*. 2024. <https://ieeexplore.ieee.org/document/10612232>
 * J. Sun, Y Jiang, J Qiu, **P. Nobel**, M. Kochenderfer, M. Schwager,
