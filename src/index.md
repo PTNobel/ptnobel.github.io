@@ -5,11 +5,9 @@
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
 PhD Candidate, Electrical Engineering, Stanford University  
-Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley  
 <ptnobel@stanford.edu>
 
 # Bio
-
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics.
 I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
@@ -18,16 +16,19 @@ During Summer 2023, I was the instructor for [EE364a/CME364a](https://web.stanfo
 as the instructor I revised the class content and lecture slides for the first time in over two decades.
 The new slides are available [here](https://web.stanford.edu/class/ee364a/lectures.html).
 
-During the summer of 2022 and part-time since, I am a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
+In the summer of 2024, I worked at [Gridmatic](https://www.gridmatic.com/) on applying differentiable optimization in energy markets.
+In undergrad, I interned at Apple working on embedded systems and scientific computing and at HP working on data infrastructure.
+
+During the summer of 2022 and part-time till the summer of 2024, I was a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
 Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods. In Spring 2021, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
 
 # Papers
 
-* **P. Nobel**, D. LeJeune, E. Candès. RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
+* **P. Nobel**, D. LeJeune, E. Candès, RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 *IEEE Transactions on Robotics*. 2024. <https://ieeexplore.ieee.org/document/10612232>
-* J. Sun, Y Jiang, J Qiu, **P. Nobel**, M. Kochenderfer, M. Schwager,
+* J. Sun, Y. Jiang, J. Qiu, **P. Nobel**, M. Kochenderfer, M. Schwager,
  Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model.
               *NeurIPS 2023*. <https://neurips.cc/virtual/2023/poster/71449>
 * **P. Nobel**, E. Candès, S. Boyd, Tractable Evaluation of Stein's Unbiased Risk Estimate for Convex Regularizers. *IEEE Transactions on Signal Processing*. 2023. <https://doi.org/10.1109/TSP.2023.3323046>
