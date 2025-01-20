@@ -23,8 +23,10 @@ During the summer of 2022 and part-time till the summer of 2024, I was a Visitin
 
 Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods. In Spring 2021, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
 
-# Papers
+# Publications
 
+* Y. Chen, D. Tse, **P. Nobel**, P. Goulart, S. Boyd, CuClarabel: GPU Acceleration for a Conic Optimization Solver. [arXiv:2412.19027 [math.OC]](https://arxiv.org/abs/2412.19027)
+* **P. Nobel**, A. Rozenshtein, C. Sharma,  Open-Access AI: Lessons From Open-Source Software. The Lawfare Institute. <https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software>
 * **P. Nobel**, D. LeJeune, E. Candès, RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd, Fast Path Planning Through Large Collections of Safe Boxes.
 *IEEE Transactions on Robotics*. 2024. <https://ieeexplore.ieee.org/document/10612232>
