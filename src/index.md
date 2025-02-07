@@ -11,13 +11,17 @@ PhD Candidate, Electrical Engineering, Stanford University
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics.
 I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+
+I am a maintainer and Technical Steering Council member for [CVXPY](cvxpy.org).
+I am also the current maintainer of [CVXPYlayers](github.com/cvxgrp/cvxpylayers) and [diffcp](github.com/cvxgrp/diffcp).
+
+In the summer of 2024, I worked at [Gridmatic](https://www.gridmatic.com/) on applying differentiable optimization in energy markets.
+In undergrad, I interned at Apple working on embedded systems and scientific computing and at HP working on data infrastructure.
+
 In Winter 2023, I was the Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/), Stanford's 230 student graduate convex optimization class.
 During Summer 2023, I was the instructor for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/);
 as the instructor I revised the class content and lecture slides for the first time in over two decades.
 The new slides are available [here](https://web.stanford.edu/class/ee364a/lectures.html).
-
-In the summer of 2024, I worked at [Gridmatic](https://www.gridmatic.com/) on applying differentiable optimization in energy markets.
-In undergrad, I interned at Apple working on embedded systems and scientific computing and at HP working on data infrastructure.
 
 During the summer of 2022 and part-time till the summer of 2024, I was a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
