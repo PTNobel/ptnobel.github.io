@@ -5,6 +5,7 @@
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
 PhD Candidate, Electrical Engineering, Stanford University  
+Maintainer, CVXPY  
 <ptnobel@stanford.edu>
 
 # Bio
