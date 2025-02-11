@@ -13,7 +13,7 @@ Maintainer, CVXPY
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics.
 I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
-I am a maintainer and Technical Steering Council member for [CVXPY](https://cvxpy.org).
+I am a maintainer and Technical Steering Council member for [CVXPY](https://www.cvxpy.org).
 I am also the current maintainer of [CVXPYlayers](https://github.com/cvxgrp/cvxpylayers) and [diffcp](https://github.com/cvxgrp/diffcp).
 
 In the summer of 2024, I worked at [Gridmatic](https://www.gridmatic.com/) on applying differentiable optimization in energy markets.
