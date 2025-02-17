@@ -1,23 +1,23 @@
 ---
-title: Defense Invitation
+title: Invitation to Parth Nobel's Defense
 ...
 
 You are cordially invited to Parth Nobel's defense (aka Oral Exam).
 
-**March 17, 2pm**
+**March 17, 2pm Pacific**
 
 Location: Packard Electrical Engineering Room 202 at Stanford  
 Zoom Link: <https://stanford.zoom.us/j/7053940383?pwd=MWxrcEhaeW9GZVVlZHMxb1l2cy91QT09>
 
 Title: Prediction error estimates via randomization and differentiable convex optimization
 
-Abstract: Measuring how accurate estimators will be on test data, *i.e.* the prediction error (PE), is a fundamental problem in evaluating and selecting estimators. The classically tractable techniques rely on either setting data aside solely for evaluation or are inconsistent in high dimensions. In this talk, we review PE estimates that depend on the derivatives of the process by which an estimator's model is trained, *e.g.*, Stein's Unbiased Risk Estimate (SURE) and Approximate Leave-One-out (ALO), and then present tractable algorithms for evaluating the PE estimates on models fit via convex optimization. While these tractable algorithms are randomized, experiments show that the randomness is inconsequential to choosing an estimator based on the PE. This enables more data efficient and more reliable estimator selection.
+Abstract: Measuring how accurate estimators will be on test data, *i.e.* the prediction error (PE), is a fundamental problem in evaluating and selecting estimators. The classically tractable techniques either rely on setting data aside solely for evaluation or are inconsistent in high dimensions. In this talk, we review PE estimates that depend on the derivatives of the process by which an estimator's model is trained, *e.g.*, Stein's Unbiased Risk Estimate (SURE) and Approximate Leave-One-out (ALO), and then present tractable algorithms for evaluating the PE estimates on models fit via convex optimization. While these tractable algorithms are randomized, experiments show that the randomness is inconsequential to choosing an estimator based on the PE. This enables more data efficient estimator selection enabling reliable estimator selection for applications where data are difficult to collect.
 
 # FAQ
 
 ## May I come in-person?
 
-Of course! We will even have snacks available before for in-person attendees. No need to wear anything special; most attendees will be Stanford students and faculty.
+Of course! We will even have snacks available before the event for in-person attendees. No need to wear anything special; most attendees will be Stanford students and faculty going about their day.
 
 ## May I ask a question?
 
