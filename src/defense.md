@@ -1,8 +1,8 @@
 ---
-title: Invitation to Parth Nobel's Defense
+title: Invitation to Parth Nobel's Dissertation Defense
 ...
 
-You are cordially invited to Parth Nobel's defense (aka Oral Exam).
+You are cordially invited to Parth Nobel's dissertation defense (aka Oral Exam).
 
 **March 17, 2pm Pacific**
 
