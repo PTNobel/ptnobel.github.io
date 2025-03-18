@@ -6,8 +6,7 @@ You are cordially invited to Parth Nobel's dissertation defense (aka Oral Exam).
 
 **March 17, 2pm Pacific**
 
-Location: Packard Electrical Engineering Room 202 at Stanford  
-Zoom Link: <https://stanford.zoom.us/j/7053940383?pwd=MWxrcEhaeW9GZVVlZHMxb1l2cy91QT09>
+Recording: <https://www.youtube.com/watch?v=QzD53-DF__c>
 
 Title: Prediction error estimates via randomization and differentiable convex optimization
 
