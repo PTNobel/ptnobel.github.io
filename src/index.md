@@ -8,6 +8,8 @@ PhD Candidate, Electrical Engineering, Stanford University
 Maintainer, CVXPY  
 <ptnobel@stanford.edu>
 
+*News: I will be co-organizing "ScaleOPT: GPU-Accelerated and Scalable Optimization" workshop at NeurIPS 2025 with Fangzhao Zhang, Maximilian Schaller, Tetiana Parshakova, Tobia Marcucci, and Alexandre Amice. Check our website [ScaleOpt](https://cvxgrp.org/scaleopt) for updates! The workshop focuses on exploring how current software and hardware developed for AI systems can be used to solve optimization problems. Related papers are welcome! See you in San Diego!*
+
 # Bio
 
 I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics.
