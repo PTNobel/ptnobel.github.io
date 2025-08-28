@@ -32,6 +32,8 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Publications
 
+* Q. Healey, **P. Nobel**, S. Boyd. Differentiating Through a Quadratic Cone Program. [arXiv:2508.17522 [math.OC]](https://arxiv.org/abs/2508.17522)
+* **P. Nobel**, A. Rozenshtein, C. Sharma, Unbundling AI Openness. Wisconsin Law Review (forthcoming). 2026. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407422)
 * Y. Chen, D. Tse, **P. Nobel**, P. Goulart, S. Boyd, CuClarabel: GPU Acceleration for a Conic Optimization Solver. [arXiv:2412.19027 [math.OC]](https://arxiv.org/abs/2412.19027)
 * **P. Nobel**, A. Rozenshtein, C. Sharma,  Open-Access AI: Lessons From Open-Source Software. The Lawfare Institute. <https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software>
 * **P. Nobel**, D. LeJeune, E. Candès, RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
