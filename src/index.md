@@ -4,31 +4,29 @@
 
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
 
-PhD Candidate, Electrical Engineering, Stanford University  
+Co-Founder and CTO, [Optimal Intellect](https://optimalintellect.com)  
 Maintainer, CVXPY  
-<ptnobel@stanford.edu>
-
-*News: I will be co-organizing "ScaleOPT: GPU-Accelerated and Scalable Optimization" workshop at NeurIPS 2025 with Fangzhao Zhang, Maximilian Schaller, Tetiana Parshakova, Tobia Marcucci, and Alexandre Amice. Check our website [ScaleOpt](https://cvxgrp.org/scaleopt) for updates! The workshop focuses on exploring how current software and hardware developed for AI systems can be used to solve optimization problems. Related papers are welcome! See you in San Diego!*
+<ptnobel@alumni.stanford.edu>
 
 # Bio
 
-I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics.
-I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+I am a maintainer and Technical Steering Council member for [CVXPY](https://www.cvxpy.org) and [CVXPYlayers](https://github.com/cvxgrp/cvxpylayers).
 
-I am a maintainer and Technical Steering Council member for [CVXPY](https://www.cvxpy.org).
-I am also the current maintainer of [CVXPYlayers](https://github.com/cvxgrp/cvxpylayers) and [diffcp](https://github.com/cvxgrp/diffcp).
+I did my PhD at Stanford University with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/).
+I was supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
-In the summer of 2024, I worked at [Gridmatic](https://www.gridmatic.com/) on applying differentiable optimization in energy markets.
+During my PhD, I interned at Amazon Supply Chain Optimization Technologies (SCOT) and [Gridmatic](https://www.gridmatic.com/).
 In undergrad, I interned at Apple working on embedded systems and scientific computing and at HP working on data infrastructure.
 
-In Winter 2023, I was the Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/), Stanford's 230 student graduate convex optimization class.
-During Summer 2023, I was the instructor for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/);
+While at Stanford, I was the instructor for the summer offering of [EE364a/CME364a](https://web.stanford.edu/class/ee364a/), Stanford's optimization course;
 as the instructor I revised the class content and lecture slides for the first time in over two decades.
 The new slides are available [here](https://web.stanford.edu/class/ee364a/lectures.html).
+In other quarters, I was Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/) and [Engr108](https://web.stanford.edu/class/engr108/), an introductory linear algebra course.
+As an undergrad, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
 
-During the summer of 2022 and part-time till the summer of 2024, I was a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
+For part of my PhD, I was a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
-Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods. In Spring 2021, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
+Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
 
 # Publications
 
