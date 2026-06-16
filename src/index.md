@@ -34,7 +34,7 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 * W. Zhang, **P. Nobel**, A. Jeendgar, R. Murray, P. Schiele, S. Diamond. CVXPY 1.9: Recent Advances in Optimization Modeling Software. [arXiv:2606.14891 [math.OC]](https://arxiv.org/abs/2606.14891)
 * Q. Healey, **P. Nobel**, S. Boyd. Differentiating Through a Quadratic Cone Program. *Optimization Letters*. 2026. <https://doi.org/10.1007/s11590-026-02315-8>
-* D. Cederberg, W. Zhang, **P. Nobel**, S. Boyd. Disciplined Nonlinear Programming. <https://web.stanford.edu/~boyd/papers/dnlp.html>
+* D. Cederberg, W. Zhang, **P. Nobel**, S. Boyd. Disciplined Nonlinear Programming. [arXiv:2606.02896 [math.OC]](https://arxiv.org/abs/2606.02896)
 * **P. Nobel**, A. Rozenshtein, C. Sharma. Untangling AI Openness. *Wisconsin Law Review*. 2026. <https://wlr.law.wisc.edu/wp-content/uploads/sites/1263/2026/03/4-Nobel-Rozenshtein-Sharma-%E2%80%93-Camera-ready.pdf>
 * Y. Chen, D. Tse, **P. Nobel**, P. Goulart, S. Boyd. CuClarabel: GPU Acceleration for a Conic Optimization Solver. *ACM Transactions on Mathematical Software*. 2026. <https://dl.acm.org/doi/10.1145/3815420>
 * **P. Nobel**, A. Rozenshtein, C. Sharma.  Open-Access AI: Lessons From Open-Source Software. The Lawfare Institute. <https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software>
