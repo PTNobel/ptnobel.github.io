@@ -6,7 +6,7 @@
 
 Co-Founder and CTO, [Optimal Intellect](https://optimalintellect.com)  
 Maintainer, CVXPY  
-<ptnobel@alumni.stanford.edu>
+<parthnobel@berkeley.edu>
 
 # Bio
 
@@ -20,9 +20,11 @@ In undergrad, I interned at Apple working on embedded systems and scientific com
 
 While at Stanford, I was the instructor for the summer offering of [EE364a/CME364a](https://web.stanford.edu/class/ee364a/), Stanford's optimization course;
 as the instructor I revised the class content and lecture slides for the first time in over two decades.
-The new slides are available [here](https://web.stanford.edu/class/ee364a/lectures.html).
+[The new slides are available here](https://web.stanford.edu/class/ee364a/lectures.html).
+I also co-developed and taught a shorter version of the course as a professional development course at NASA; [those course materials are available here](https://cvxgrp.org/nasa/).
 In other quarters, I was Head TA for [EE364a/CME364a](https://web.stanford.edu/class/ee364a/) and [Engr108](https://web.stanford.edu/class/engr108/), an introductory linear algebra course.
 As an undergrad, I was the sole TA for [EECS219A](https://aam.roychowdhury.net/classWiki/tiki-index.php?page=EECS219A-Spring-2021), Berkeley's graduate numerical simulation and modeling class.
+
 
 For part of my PhD, I was a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/), Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and Professor Jim Demmel on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
 
@@ -30,10 +32,11 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Publications
 
-* Q. Healey, **P. Nobel**, S. Boyd. Differentiating Through a Quadratic Cone Program. [arXiv:2508.17522 [math.OC]](https://arxiv.org/abs/2508.17522)
+* W. Zhang, **P. Nobel**, A. Jeendgar, R. Murray, P. Schiele, S. Diamond. CVXPY 1.9: Recent Advances in Optimization Modeling Software. [arXiv:2606.14891 [math.OC]](https://arxiv.org/abs/2606.14891)
+* Q. Healey, **P. Nobel**, S. Boyd. Differentiating Through a Quadratic Cone Program. *Optimization Letters*. 2026. <https://doi.org/10.1007/s11590-026-02315-8>
 * D. Cederberg, W. Zhang, **P. Nobel**, S. Boyd. Disciplined Nonlinear Programming. <https://web.stanford.edu/~boyd/papers/dnlp.html>
 * **P. Nobel**, A. Rozenshtein, C. Sharma. Untangling AI Openness. *Wisconsin Law Review*. 2026. <https://wlr.law.wisc.edu/wp-content/uploads/sites/1263/2026/03/4-Nobel-Rozenshtein-Sharma-%E2%80%93-Camera-ready.pdf>
-* Y. Chen, D. Tse, **P. Nobel**, P. Goulart, S. Boyd. CuClarabel: GPU Acceleration for a Conic Optimization Solver. [arXiv:2412.19027 [math.OC]](https://arxiv.org/abs/2412.19027)
+* Y. Chen, D. Tse, **P. Nobel**, P. Goulart, S. Boyd. CuClarabel: GPU Acceleration for a Conic Optimization Solver. *ACM Transactions on Mathematical Software*. 2026. <https://dl.acm.org/doi/10.1145/3815420>
 * **P. Nobel**, A. Rozenshtein, C. Sharma.  Open-Access AI: Lessons From Open-Source Software. The Lawfare Institute. <https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software>
 * **P. Nobel**, D. LeJeune, E. Candès. RandALO: Out-of-sample Risk Estimation in No Time Flat. [arXiv:2409.09781 [math.ST]](https://arxiv.org/abs/2409.09781)
 * T. Marcucci, **P. Nobel**, R. Tedrake, S. Boyd. Fast Path Planning Through Large Collections of Safe Boxes.
@@ -50,7 +53,7 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 I occasionally did significant writing for the UC Berkeley Model UN. That work is provided below:
 
 * [Conference on the Laws of War for the Cyber Era Background Guide](/pdfs/war.pdf) 
-* [Excerpts addressing power grid infrastructure from Group of Latin American and Carribean Countries: 2020 Background Guide](/pdfs/grulac.pdf)
+* [Excerpts addressing power grid infrastructure from Group of Latin American and Caribbean Countries: 2020 Background Guide](/pdfs/grulac.pdf)
 * [US Senate: Data Privacy Background Guide](/pdfs/data-privacy.pdf)
 
 I also have written quick-reference theorem lists for a couple classes at Berkeley. Other people have told me they're useful. I make no guarantees about the absence or presence of typos. 
