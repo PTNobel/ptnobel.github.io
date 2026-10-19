@@ -32,6 +32,8 @@ Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Ber
 
 # Publications
 
+* **P. Nobel**. John Williams wrote a fanfare for Mike Dukakis. I had to hear it. *The Boston Globe*. October 16, 2026. <https://www.bostonglobe.com/2026/10/16/opinion/john-williams-mike-dukakis-theme-song/>
+* P. Rathore, Z. Frangella, **P. Nobel**, X. Hu, M. Udell. GPU-Enabled Large-Scale Optimization Using Randomized Linear Algebra. [arXiv:2609.08136 [cs.LG]](https://arxiv.org/abs/2609.08136)
 * W. Zhang, **P. Nobel**, A. Jeendgar, R. Murray, P. Schiele, S. Diamond. CVXPY 1.9: Recent Advances in Optimization Modeling Software. [arXiv:2606.14891 [math.OC]](https://arxiv.org/abs/2606.14891)
 * Q. Healey, **P. Nobel**, S. Boyd. Differentiating Through a Quadratic Cone Program. *Optimization Letters*. 2026. <https://doi.org/10.1007/s11590-026-02315-8>
 * D. Cederberg, W. Zhang, **P. Nobel**, S. Boyd. Disciplined Nonlinear Programming. [arXiv:2606.02896 [math.OC]](https://arxiv.org/abs/2606.02896)
